@@ -1,0 +1,108 @@
+body {
+  font-family: Arial;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+input,
+textarea,
+select {
+  display: block;
+  margin-bottom: 12px;
+}
+
+input,
+textarea,
+select {
+  display: block;
+  margin-bottom: 12px;
+}
+
+body {
+  max-width: 900px;
+  margin: auto;
+}
+
+#img-champions {
+  width: 1200px;
+}
+
+#img-brain {
+  width: 750px;
+}
+
+#img-kid {
+  width: 750px;
+}
+
+#img-adult {
+  width: 750px;
+}
+
+#img-pawn {
+  height: 400px;
+  width: 400px;
+}
+
+#img-knight {
+  height: 400px;
+  width: 400px;
+}
+
+#img-bishop {
+  height: 400px;
+  width: 400px;
+}
+
+#img-rook {
+  height: 400px;
+  width: 400px;
+}
+
+#img-queen {
+  height: 400px;
+  width: 400px;
+}
+
+#img-king {
+  height: 400px;
+  width: 400px;
+}
